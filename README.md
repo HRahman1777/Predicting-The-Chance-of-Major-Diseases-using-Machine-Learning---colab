@@ -1,1 +1,1 @@
-# Predicting-The-Chance-of-Major-Diseases-using-Machine-Learning---colab
+# Predicting_The_Chance_of_Major_Diseases_using_ML-colab
